@@ -1,0 +1,45 @@
+body, div, p, a{
+    color: white;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+
+}
+
+body {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+    top: 50%;
+}
+
+
+div{
+    font-family:  sans-serif;
+    font-size: 50px;
+    text-align: center;
+    height: 65px;
+    text-align: center;
+    
+}
+
+a.h, a.z{
+    text-align: center;
+    margin: auto;
+    text-shadow: 0 0 10px yellow;
+
+}
+    
+
+a.h:hover, a.z:hover{
+    color: red;
+    font-size: 70px;
+}
+
+a.h:active, a.z:active{
+    color: orange;
+    font-size: 60px;
+}
+
+
+
